@@ -1,6 +1,8 @@
- <div align="center">
+  <div align="center">
 
-  **Android Developer**
+  # 👋 Hi, I'm leesgit
+
+  **Developer**
 
   </div>
 
@@ -46,5 +48,3 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leesgit)
 
   </div>
-
-
