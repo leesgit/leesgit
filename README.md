@@ -47,7 +47,7 @@ I build tools that make AI development faster. Published 2 MCP servers on npm, b
 
 ### Blog
 
-- [Claude Code에 영구 기억을 준 MCP 서버를 만들었다](https://leesmemo.tistory.com/73)
+- [클로드 전용 연속성 관련 mcp 개발](https://leesmemo.tistory.com/73)
 - [Claude Code Hooks로 AI 개발 자동화하기](https://leesmemo.tistory.com/72)
 - [TypeScript MCP 서버를 npm에 배포하기](https://leesmemo.tistory.com/71)
 - [Medium: I Built an MCP Server That Gives Claude Code Permanent Memory](https://medium.com/p/2532c0a0736c)
