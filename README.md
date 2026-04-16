@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Android developer with 7 years of experience.
-Mainly working with Kotlin/Compose, and recently interested in AI-powered app development.
+Mainly working with Kotlin/Compose, and recently interested in AI and app development.
 
 ### About Me
 
@@ -46,8 +46,3 @@ Mainly working with Kotlin/Compose, and recently interested in AI-powered app de
 
 [![Blog](https://img.shields.io/badge/Blog-leesmemo.tistory.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://leesmemo.tistory.com/)
 
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=leesgit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
