@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 Android developer with 7 years of experience.
-Mainly working with Kotlin/Compose, and recently interested in AI and app development.
+Mainly working with Kotlin/Compose, and recently focused on AI-integrated app development with MCP.
 
 ### About Me
 
 - 📱 Android / iOS / Flutter cross-platform development
-- 🤖 Interested in AI-integrated app development (OpenAI API, MCP)
+- 🤖 MCP-based AI consultation engine designer — 2 AI apps published on Google Play
+- 🌱 Open source contributor — recent merged PR to [coil-kt/coil](https://github.com/coil-kt/coil) (11k+ ⭐)
 - 📝 Tech blog: [leesmemo.tistory.com](https://leesmemo.tistory.com/)
 - 🛠️ End-to-end solo development experience — from planning to Play Store launch
 
@@ -39,6 +40,25 @@ Mainly working with Kotlin/Compose, and recently interested in AI and app develo
 | [**claude-session-continuity-mcp**](https://github.com/leesgit/claude-session-continuity-mcp) | Session continuity MCP server for Claude Code | TypeScript, SQLite, npm |
 | [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Self-learning macOS automation MCP server | TypeScript, AppleScript |
 | [**movieApp**](https://github.com/leesgit/movieApp) | Movie info app | Compose, Clean Architecture |
+
+---
+
+### Published Apps (Solo Full-stack)
+
+| App | Description | Tech |
+|:----|:------------|:-----|
+| [**사주멍 (Sajumung)**](https://play.google.com/store/apps/details?id=com.lbc.sajumung) | AI fortune-telling with MCP-based 7-source personalized consultation engine | Flutter, Node.js, MongoDB, OpenAI API |
+| [**루나데이 (Lunaday)**](https://play.google.com/store/apps/details?id=com.lbc.lunaday) | AI women's health calendar reusing MCP architecture from Sajumung | Flutter, Hive, Node.js, MongoDB |
+
+---
+
+### Open Source Contributions
+
+| Project | Contribution | Status |
+|:--------|:-------------|:-------|
+| [**coil-kt/coil**](https://github.com/coil-kt/coil) (11k+ ⭐) | [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order so `CacheControlCacheStrategy` can expire cached failure responses | ✅ Merged by maintainer |
+| [**claude-session-continuity-mcp**](https://www.npmjs.com/package/claude-session-continuity-mcp) | Author — published to npm | ✅ Released |
+| [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Author — published to npm | ✅ Released |
 
 ---
 
