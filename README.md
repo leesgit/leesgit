@@ -7,7 +7,6 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 - 📱 Android / iOS / Flutter cross-platform development
 - 🤖 MCP-based AI consultation engine designer — 2 AI apps published on Google Play
-- 🌱 Open source contributor — coil-kt/coil, MCP servers
 - 📝 Tech blog: [leesmemo.tistory.com](https://leesmemo.tistory.com/)
 - 🛠️ End-to-end solo development experience — from planning to Play Store launch
 
@@ -37,28 +36,26 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**claude-session-continuity-mcp**](https://github.com/leesgit/claude-session-continuity-mcp) | Session continuity MCP server for Claude Code | TypeScript, SQLite, npm |
+| [**movieApp**](https://github.com/leesgit/movieApp) | Movie info app sample | Compose, Clean Architecture |
+| [**claude-session-continuity-mcp**](https://github.com/leesgit/claude-session-continuity-mcp) | Session continuity MCP server for Claude Code | TypeScript, SQLite |
 | [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Self-learning macOS automation MCP server | TypeScript, AppleScript |
-| [**movieApp**](https://github.com/leesgit/movieApp) | Movie info app | Compose, Clean Architecture |
 
 ---
 
-### Published Apps (Solo Full-stack)
+### Achievements
 
-| App | Description | Tech |
-|:----|:------------|:-----|
-| [**사주멍 (Sajumung)**](https://play.google.com/store/apps/details?id=com.lbc.sajumung) | AI fortune-telling with MCP-based 7-source personalized consultation engine | Flutter, Node.js, MongoDB, OpenAI API |
-| [**루나데이 (Lunaday)**](https://play.google.com/store/apps/details?id=com.lbc.lunaday) | AI women's health calendar reusing MCP architecture from Sajumung | Flutter, Hive, Node.js, MongoDB |
+**Certifications**
+- [Claude Code in Action](https://verify.skilljar.com/c/96sapjp92w7w) — Anthropic (2026.04)
 
----
+**Published Apps (Google Play, solo full-stack)**
+- [사주멍 (Sajumung)](https://play.google.com/store/apps/details?id=com.lbc.sajumung) — AI fortune-telling with MCP-based personalized consultation
+- [루나데이 (Lunaday)](https://play.google.com/store/apps/details?id=com.lbc.lunaday) — AI women's health calendar (reused MCP architecture)
+- 거울카메라 (Mirror Camera) — Camera utility (2018~)
 
-### Open Source Contributions
-
-| Project | Contribution |
-|:--------|:-------------|
-| [**coil-kt/coil**](https://github.com/coil-kt/coil) | [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order so `CacheControlCacheStrategy` can expire cached failure responses |
-| [**claude-session-continuity-mcp**](https://www.npmjs.com/package/claude-session-continuity-mcp) | Author — published to npm |
-| [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Author — published to npm |
+**Open Source**
+- coil-kt/coil — [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order in `NetworkFetcher`
+- [claude-session-continuity-mcp](https://www.npmjs.com/package/claude-session-continuity-mcp) — Author, published to npm
+- [mac-pilot-mcp](https://github.com/leesgit/mac-pilot-mcp) — Author, published to npm
 
 ---
 
