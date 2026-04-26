@@ -42,22 +42,6 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 ---
 
-### Certifications
-
-- [Claude Code in Action](https://verify.skilljar.com/c/96sapjp92w7w) — Anthropic (2026.04)
-
----
-
-### Open Source
-
-| Project | Contribution |
-|:--------|:-------------|
-| [**coil-kt/coil**](https://github.com/coil-kt/coil) | [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order so `CacheControlCacheStrategy` can expire cached failure responses |
-| [**claude-session-continuity-mcp**](https://www.npmjs.com/package/claude-session-continuity-mcp) | Author — published to npm |
-| [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Author — published to npm |
-
----
-
 ### Blog
 
 [![Blog](https://img.shields.io/badge/Blog-leesmemo.tistory.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://leesmemo.tistory.com/)
