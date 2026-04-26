@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 Android developer with 7 years of experience.
-Mainly working with Kotlin/Compose, and recently focused on AI-integrated app development with MCP.
+Mainly working with Kotlin/Compose, and recently interested in AI and app development.
 
 ### About Me
 
 - 📱 Android / iOS / Flutter cross-platform development
-- 🤖 MCP-based AI consultation engine designer — 2 AI apps published on Google Play
+- 🤖 Interested in AI-integrated app development (OpenAI API, MCP)
 - 📝 Tech blog: [leesmemo.tistory.com](https://leesmemo.tistory.com/)
 - 🛠️ End-to-end solo development experience — from planning to Play Store launch
 
@@ -36,9 +36,9 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| [**movieApp**](https://github.com/leesgit/movieApp) | Movie info app sample | Compose, Clean Architecture |
-| [**claude-session-continuity-mcp**](https://github.com/leesgit/claude-session-continuity-mcp) | Session continuity MCP server for Claude Code | TypeScript, SQLite |
+| [**claude-session-continuity-mcp**](https://github.com/leesgit/claude-session-continuity-mcp) | Session continuity MCP server for Claude Code | TypeScript, SQLite, npm |
 | [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Self-learning macOS automation MCP server | TypeScript, AppleScript |
+| [**movieApp**](https://github.com/leesgit/movieApp) | Movie info app | Compose, Clean Architecture |
 
 ---
 
