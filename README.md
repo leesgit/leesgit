@@ -7,7 +7,7 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 - 📱 Android / iOS / Flutter cross-platform development
 - 🤖 MCP-based AI consultation engine designer — 2 AI apps published on Google Play
-- 🌱 Open source contributor — recent merged PR to [coil-kt/coil](https://github.com/coil-kt/coil) (11k+ ⭐)
+- 🌱 Open source contributor — coil-kt/coil, MCP servers
 - 📝 Tech blog: [leesmemo.tistory.com](https://leesmemo.tistory.com/)
 - 🛠️ End-to-end solo development experience — from planning to Play Store launch
 
@@ -54,11 +54,11 @@ Mainly working with Kotlin/Compose, and recently focused on AI-integrated app de
 
 ### Open Source Contributions
 
-| Project | Contribution | Status |
-|:--------|:-------------|:-------|
-| [**coil-kt/coil**](https://github.com/coil-kt/coil) (11k+ ⭐) | [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order so `CacheControlCacheStrategy` can expire cached failure responses | ✅ Merged by maintainer |
-| [**claude-session-continuity-mcp**](https://www.npmjs.com/package/claude-session-continuity-mcp) | Author — published to npm | ✅ Released |
-| [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Author — published to npm | ✅ Released |
+| Project | Contribution |
+|:--------|:-------------|
+| [**coil-kt/coil**](https://github.com/coil-kt/coil) | [PR #3401](https://github.com/coil-kt/coil/pull/3401) — Fix cache strategy evaluation order so `CacheControlCacheStrategy` can expire cached failure responses |
+| [**claude-session-continuity-mcp**](https://www.npmjs.com/package/claude-session-continuity-mcp) | Author — published to npm |
+| [**mac-pilot-mcp**](https://github.com/leesgit/mac-pilot-mcp) | Author — published to npm |
 
 ---
 
